@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **flutter ,ml ,tenserflow**
 
-- 👨‍💻 All of my projects are available at [secdecoded.study](secdecoded.study)
+- 👨‍💻 All of my projects are available at secdecoded.study
 
 - 💬 Ask me about **firebase,cybersecurity**
 
