@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **flutter ,ml ,tenserflow**
 
-- 👨‍💻 All of my projects are available at secdecoded.study
-
 - 💬 Ask me about **firebase,cybersecurity**
 
 - 📫 How to reach me **maruthi.syn.ack@gmail.com**
