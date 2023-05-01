@@ -9,7 +9,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **flutter ,ml ,tenserflow**
+- 🌱 I’m currently learning **Svelte ,CSS ,node.js**
 
 - 💬 Ask me about **firebase,cybersecurity**
 
